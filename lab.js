@@ -55,7 +55,7 @@ if(amysAge === brittanisAge){
 
 ////////// PROBLEM 4 //////////
 
-let temperature = 55;
+let temperature = 90;
 let rain = true;
 
 /*
@@ -64,6 +64,7 @@ let rain = true;
 */
 
 //CODE HERE
+//we did this differently than the solution~!!! and forgot our own condition
 
 if(temperature >= 80 && rain === true){
   console.log('one should wear a t=shirt and take an umbrella')
